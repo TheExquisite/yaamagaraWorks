@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand|ABeeZee');
 
 .image-background{
-    background-image: "../assets/rainforest.jpg";
+    background-image: "../assets/art.jpg";
     position: fixed;
     right: 0; 
     bottom: 0;
@@ -15,7 +15,7 @@
 .title{
     font-weight: bold;
     font-size: 7vh;
-    color: rgb(6, 65, 6);
+    color: rgb(124, 34, 11);
     font-family: Quicksand, Verdana;
     padding-bottom: 8px;
 }
@@ -23,7 +23,7 @@
 .header{
     font-weight: bold;
     font-size: 3.5vh;
-    color: rgb(6, 105, 6);
+    color: rgb(184, 73, 22);
     font-family: Quicksand, Verdana;
     padding-bottom: 8px;
 }
@@ -38,23 +38,7 @@
     padding: 10px;
 }
 
-.headerCard{
-    background-color: white;
-}
-
-.para1Card{
-    background-color: white;
-}
-
-.para2Card{
-    background-color: white;
-}
-
-.para3Card{
-    background-color: white;
-}
-
-.quoteCard{
-    background-color: white;
+.card{
+    background-color: rgb(241, 222, 185);
 }
 
